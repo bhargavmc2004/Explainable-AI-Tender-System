@@ -1,0 +1,5 @@
+{
+  "name": "Explainability for AI Based Tender System",
+  "description": "A web application for managing tender processes with AI-driven bid selection and explainability. It provides separate interfaces for vendors to bid on tenders and for employers to create and manage them, all powered by a simulated file-based database and an AI model for transparent decision-making.",
+  "requestFramePermissions": []
+}
